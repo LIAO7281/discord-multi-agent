@@ -930,7 +930,7 @@ docker-compose logs -f
 
 **🌟 如果这个项目对你有帮助，请给它一个 Star！🌟**
 
-Made with ❤️ by AI Builders
+Made with ❤️ by L
 
 [🔝 回到顶部](#discord-multi-agent-support-system)
 
