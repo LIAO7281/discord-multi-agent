@@ -8,7 +8,6 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-2.3.2-blueviolet.svg)](https://discord.py.readthedocs.io/)
 
-**🌟 为小米 MiMo 百万亿 Token 激励计划打造的开源项目示例**
 
 </div>
 
