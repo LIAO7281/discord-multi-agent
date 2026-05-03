@@ -914,7 +914,6 @@ docker-compose logs -f
 
 - [**Hermes Agent**](https://github.com/NousResearch/hermes-agent) - 自进化 Agent 框架
 - [**Discord.py**](https://github.com/Rapptz/discord.py) - Discord Bot 库
-- [**小米 MiMo**](https://mimo.ai) - 大模型支持 & 百万亿 Token 激励计划
 - [**ChromaDB**](https://www.trychroma.com/) - 向量数据库
 - [**OpenAI**](https://openai.com/) - GPT API 标准
 
@@ -922,10 +921,8 @@ docker-compose logs -f
 
 ## 📞 联系方式
 
-- **项目维护者**：AI Builder
-- **Email**：your-email@example.com
-- **Discord**：[加入我们的服务器](https://discord.gg/yourserver)
-- **Issue Tracker**：[GitHub Issues](https://github.com/yourusername/discord-multi-agent/issues)
+- **项目维护者**：L
+- **Email**：liaoliao7281@gmail.com
 
 ---
 
