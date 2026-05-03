@@ -1,0 +1,16 @@
+# Discord Multi-Agent Support System
+# 基于 Hermes Agent 的多 Agent 协作 Discord 客服系统
+
+discord.py==2.3.2
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.26.4
+# 可选：专业向量数据库（如果需要更强大的 RAG）
+# chromadb==0.4.24
+# sentence-transformers==2.7.0
+
+# 可选：专业语言检测
+# langdetect==1.0.9
+
+# 可选：Hermes Agent SDK（如果要用官方 SDK）
+# hermes-agent-sdk>=0.1.0
