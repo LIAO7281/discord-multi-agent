@@ -153,3 +153,7 @@ desktop.ini
 *.swp
 *.swo
 *~
+*.bat
+push_helper.py
+__pycache__
+*.pyc
